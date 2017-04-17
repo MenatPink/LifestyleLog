@@ -1,0 +1,28 @@
+{
+  "name": "lifestylelog",
+  "version": "0.0.1",
+  "description": "Lifestyle Lof",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenatPink/LifestyleLog.git"
+  },
+  "author": "Menat Pink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MenatPink/LifestyleLog/issues"
+  },
+  "homepage": "https://github.com/MenatPink/LifestyleLog#readme",
+  "devDependencies": {
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
